@@ -3,3 +3,4 @@ Task 1 script will display the content list of the current working directory
 Task 2 script will change the working directory to the user's home directory
 Task 3 script will display current directory content in long format
 Task 4 script will display current directory content in long format including hidden file
+Task 5 script will display current directory content in long format with user and group id numerically
