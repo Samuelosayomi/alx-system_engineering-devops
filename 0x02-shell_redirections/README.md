@@ -1,1 +1,2 @@
-Task 1 will print Hello world
+Task 0 will print Hello World
+Task 1 will print a confused smiley
